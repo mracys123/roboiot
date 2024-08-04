@@ -3,7 +3,7 @@ Contoh Tampilan Web Sekolah
 
 Contoh Web Sekolah Vroh, langsung akses di mari
 
-[http://roboiot.github.io/web-robot](http://roboiot.github.io/web-robot)
+[http://mracys123.github.io/roboiot](http://mracys123.github.io/roboiot)
 
 Beberapa konten belum terisi... Pokoknya gitulah... Ngahahaha....
 
